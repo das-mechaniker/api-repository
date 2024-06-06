@@ -3,16 +3,6 @@ List of my favorite APIs.
 
 *FTT: Free to Trial*
 
-[Alternative Data Database](https://alternativedata.org/data-providers/) - Not updated since 2019 
-https://www.boardroomalpha.com
-https://stocknews.ai/ai-news
-https://www.eaglealpha.com/what-is-alternative-data/
-https://altindex.com
-[Kenneth French Data Library](http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
-[Damodaran Data](https://pages.stern.nyu.edu/~adamodar/)
-
-
-| Free    |  | [Documentation]() |  |
 
 ## Tools
 
@@ -82,3 +72,13 @@ https://altindex.com
 | Free    | ESPN (Unofficial)| [Documentation](https://gist.github.com/akeaswaran/b48b02f1c94f873c6655e7129910fc3b)                             | This is an unofficial/hidden backend API for ESPN's website. |
 | Free    | NCAA API        | [Documentation](https://github.com/henrygd/ncaa-api) | Free API to return consumable data from ncaa.com. Works with scores, stats, rankings, standings, schedules, and history. |
 | Free    | Sportmonks Football | [Documentation](https://docs.sportmonks.com/football/v/beta-documentation) | Football Scores Schedule, News, Odds, TV Channels, Stats, History, Standing e.g. EPL, La Liga |
+
+
+[Alternative Data Database](https://alternativedata.org/data-providers/) - Not updated since 2019 
+https://www.boardroomalpha.com
+https://stocknews.ai/ai-news
+https://www.eaglealpha.com/what-is-alternative-data/
+https://altindex.com
+[Kenneth French Data Library](http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
+[Damodaran Data](https://pages.stern.nyu.edu/~adamodar/)
+
